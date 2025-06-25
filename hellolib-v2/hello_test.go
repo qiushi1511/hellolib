@@ -11,3 +11,9 @@ func ExampleWarmHello() {
 
 	// Output: Hello, World! Welcome to the world of Go!
 }
+
+func ExampleGreeting() {
+	Greeting()
+
+	// Output: Nice to meet you!
+}

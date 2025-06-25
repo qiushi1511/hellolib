@@ -13,3 +13,7 @@ func Hello(name string) {
 func WarmHello(name string) {
 	fmt.Println(greet.WarmGreet(name))
 }
+
+func Greeting() {
+	fmt.Println("Nice to meet you!")
+}
